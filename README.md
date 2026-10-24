@@ -2,7 +2,7 @@
 
 Stickers: a playful blog template for phones, with a post view.
 
-**[Live demo](https://mobifreaks.github.io/Stickers-Mobi/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Stickers-Mobi/)** ·
 [Download zip](https://github.com/mobifreaks/Stickers-Mobi/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
