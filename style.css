@@ -1,8 +1,8 @@
 /*
 Theme Name: Stickers Mobile Tempate
-Theme URI: http://mobifreaks.com/mobile templates/
+Theme URI: https://munawarahmed.com/mobifreaks
 Author: Munawar Ahmed
-Author URI: http://mobifreaks.com/
+Author URI: https://munawarahmed.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
@@ -185,14 +185,14 @@ additional
 	list-style:disc;
 }
 .blog-content blockquote{
-	background:url(../images/blockquote-down.png) no-repeat;
+	background:url(images/blockquote-down.png) no-repeat;
 	margin:5px 0;
 	color:#5d5d5d;
 	border-top:1px solid #eeeeee; 
 	border-bottom:1px solid #eeeeee; 
 }
 .blog-content blockquote p{
-	background:url(../images/blockquote-up.png) no-repeat bottom right;
+	background:url(images/blockquote-up.png) no-repeat bottom right;
 	font-style:italic;
 	padding:10px 40px;
 }/* ----- Footer ----- */
